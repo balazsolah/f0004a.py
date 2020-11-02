@@ -1,0 +1,5 @@
+szám1 = input ('mi legyen az első szám')
+szám2 = input (' mi legyen a másik szám')
+szám1 = int ( szám1 )
+szám2 = int ( szám2 )
+print ('szorzatuk:',szám1 *szám2)
